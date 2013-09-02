@@ -1,0 +1,29 @@
+{
+  "name": "yle-cl-tekstitv",
+  "version": "0.0.0",
+  "description": "Command line interface to YLE's textv",
+  "homepage": "https://github.com/mkirvela/yle-cl-tekstitv",
+  "bugs": "https://github.com/mkirvela/yle-cl-tekstitv/issues",
+  "author": {
+    "name": "Matias Kirvelä",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkirvela/yle-cl-tekstitv"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "request": "2.27.0",
+    "cli-color": "0.2.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}

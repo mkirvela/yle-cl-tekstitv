@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://beta.yle.fi",
+  "apiKey": "/* you need to ask your own api-key for now :( */",
+  "path": "/api/ttvcontent/"
+}
