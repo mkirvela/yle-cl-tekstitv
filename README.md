@@ -2,6 +2,8 @@
 
 Command line interface to YLE's textv
 
+![Alt text](https://dl.dropboxusercontent.com/u/59216971/texttv.png "Screenshot")
+
 ## Getting Started
 Clone the repo then ```npm install``` and then ```node lib/texttv 201```
 
