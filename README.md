@@ -1,14 +1,12 @@
-# yle_cl_tekstitv [![Build Status](https://secure.travis-ci.org/mkirvela/yle-cl-tekstitv.png?branch=master)](http://travis-ci.org/mkirvela/yle-cl-tekstitv)
+# yle_cl_tekstitv
 
 Command line interface to YLE's textv
 
 ## Getting Started
-Install the module with: `npm install yle-cl-tekstitv`
+Clone the repo then ```npm install``` and then ```node lib/texttv 201```
 
-```javascript
-var yle-cl-tekstitv = require('yle-cl-tekstitv');
-yle-cl-tekstitv.awesome(); // "awesome"
-```
+# HÄLÄRM!
+You need to have Yle's apiKey (or ask one from me: matiASS@ircnet)
 
 ## Documentation
 _(Coming soon)_
